@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.div1{
+    background-color: chartreuse;
+    width: 200px;
+    color: #fff;
+    height: 200px;
+    margin-right: 10px;
+    border: 12px solid red;
+    text-align: center;
+}
+.div2{
+    background-color: chartreuse;
+    color: #fff;
+    margin-right: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+.div3{
+    background-color: chartreuse;
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    padding-left: 100px;
+}

@@ -1,0 +1,10 @@
+button{
+    background-color: blue;
+    color: white;
+    transition: all .5s;
+}
+button:hover{
+    background-color: green;
+    cursor: pointer;
+    transform: scale(1.5);
+}

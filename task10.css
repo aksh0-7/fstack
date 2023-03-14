@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+img{
+    width: 30%;
+}

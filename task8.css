@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.div1{
+    background-color: chartreuse;
+    width: 200px;
+    color: #fff;
+    height: 200px;
+    border: 12px solid red;
+    text-align: center;
+}
+.div2{
+    margin-top: 10px;
+    background-color: chartreuse;
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+.div3{
+    margin-top: 10px;
+    background-color: chartreuse;
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    padding-left: 100px;
+}
